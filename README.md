@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Dthesle/Dthesle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- S-PScripts --->
 
-Here are some ideas to get you started:
+```lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+local information =
+
+{
+ welcome = "Welcome to my profile!",
+
+ socials = {
+    ["Roblox"] = "MemesFromTheInternet",
+    ["Discord"] = ".cmaniac",
+  },
+
+  repos = {
+    ["none-for-now"] = "come back soon.",
+  },
+
+  facts = {
+    "i'm a fast typer - i can get my wpm to be around 70 - 95 at peak"
+  },
+
+  news = "i finally made a readme for my profile"
+}
+
+```
